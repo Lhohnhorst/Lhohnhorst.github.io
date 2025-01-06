@@ -10,7 +10,7 @@ bookFlatSection: true
 
 Lukas Hohnhorst \
 Münsterstraße 74 \
-49377 Vechta \
+49377 Vechta 
 
 # Kontakt
 
