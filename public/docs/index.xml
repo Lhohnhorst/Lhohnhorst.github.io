@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Asterix-Seminar</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Asterix-Seminar</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/docs/impressum/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/impressum/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;&#xD;&#xA;  Impressum&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#impressum&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Lukas Hohnhorst&#xA;Münsterstraße 74&#xA;49377 Vechta&lt;/p&gt;&#xA;&lt;h1 id=&#34;kontakt&#34;&gt;&#xD;&#xA;  Kontakt&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#kontakt&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Telefon: + 49 (0) 15202472368&#xA;E-Mail: &lt;a href=&#34;mailto:lukashohnhorst@gmail.com&#34;&gt;lukashohnhorst@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
