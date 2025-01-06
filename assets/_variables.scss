@@ -1,0 +1,68 @@
+/* You can override SASS variables here. */
+
+// Themes
+ @mixin theme-light {
+  --gray-100: #f0dee3;
+  --gray-200: #ffffff;
+  --gray-500: #f1f8ff;
+
+  --background-list: rgb(205, 67, 67);
+
+  --color-menu: linear-gradient(to right, #941616, #d21b1b, #f8ffff);    
+
+  --color-link: rgba(61, 48, 237, 0.9);
+  --color-visited-link: rgba(61, 48, 237, 0.9);
+  --color-hover: rgba(25, 66, 139, 0.9);
+
+
+  --body-background: rgb(248, 255, 255);
+  --body-font-color: black;
+
+  --icon-filter: none;
+
+  --hint-color-info: #6bf;
+  --hint-color-warning: #fd6;
+  --hint-color-danger: #f66;
+}
+
+@mixin theme-dark {
+  --gray-100: #c11818;
+  --gray-200: #3d0404;
+  --gray-500: #420505;
+
+  --background-list: #3d0404;
+
+  --color-menu: linear-gradient(to right, #5a1414,#27111f62);          
+
+  --color-link: rgba(132, 178, 255, 0.9);
+  --color-visited-link: rgba(132, 178, 255, 0.9);
+  --color-hover: rgba(83, 114, 168, 0.9);
+
+  --body-background: #27111f62;
+  --body-font-color: #e9ecef;
+
+  --icon-filter: brightness(0) invert(1);
+
+  --hint-color-info: #6bf;
+  --hint-color-warning: #fd6;
+  --hint-color-danger: #f66;
+} 
+
+.markdown {
+
+  blockquote {
+    border-inline-start: .25rem solid var(--background-list);
+  }
+
+  code {
+    font-family: 'Roboto', sans-serif;
+    background: var(--background-list);
+  }
+
+  pre {
+    font-family: 'Roboto', sans-serif;
+    background: var(--background-list);
+  }
+}
+
+// @import "plugins/dark";

@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'de'
+title = 'Asterix-Seminar'
+theme = 'hugo-book'
+timeZone = 'Europe/Berlin'
+
+[params]
+BookTheme = 'auto'
