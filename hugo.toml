@@ -1,4 +1,4 @@
-baseURL = 'https://www.asterix-seminar.com/'
+baseURL = 'https://lhohnhorst.github.io/'
 languageCode = 'de'
 title = 'Asterix-Seminar'
 theme = 'hugo-book'
